@@ -1,16 +1,16 @@
-### Hi there 👋
+### 😀 이용훈(Yonghoon Lee) - @YHLEE9753
 
-<!--
-**YHLEE9753/YHLEE9753** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align=center>
+    
+<a href="https://github.com/YHLEE9753">
+  <img src="https://github-readme-stats.vercel.app/api?username=YHLEE9753" width="60%" />
+</a>
 
-Here are some ideas to get you started:
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YHLEE9753&hide=Jupyter%20Notebook&layout=compact" width="35%" />
+</a>
+    
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&link=https://velog.io/@yhlee9753/)](https://velog.io/@yhlee9753/)
+[![Email Badge](https://img.shields.io/badge/-Email-6BEC62?style=flat-square&logo=e-mail&logoColor=white&link=mailto:dldydgns530@gmail.com)](mailto:dldydgns530@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
