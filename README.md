@@ -8,7 +8,8 @@
 
 ### 📌 Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&link=https://velog.io/@yhlee9753/)](https://velog.io/@yhlee9753/)
-[![Email Badge](https://img.shields.io/badge/-Email-6BEC62?style=flat-square&logo=e-mail&logoColor=white&link=mailto:dldydgns530@gmail.com)](mailto:dldydgns530@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dldydgns530@gmail.com)](mailto:dldydgns530@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/yonghoon-lee-756793218/)
 
 
 ### 📌 Git Stat
