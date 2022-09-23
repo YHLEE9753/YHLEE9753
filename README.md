@@ -1,6 +1,6 @@
 ## 😀 이용훈(Yonghoon Lee) - @YHLEE9753
 
-### 📌 Tech Stacks
+### 📌 Skills
 
 ![Java](https://img.shields.io/badge/Java-007396.svg?&amp;style=for-the-badge&amp;logo=Java&amp;logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&amp;style=for-the-badge&amp;logo=Spring&amp;logoColor=white)
@@ -12,7 +12,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/yonghoon-lee-756793218/)
 
 
-### 📌 Git Stat
+### 📌 Git Statㄴ
 <div align=center>
 <a href="https://github.com/YHLEE9753">
   <img src="https://github-readme-stats.vercel.app/api?username=YHLEE9753" width="60%" />
