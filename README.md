@@ -12,7 +12,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/yonghoon-lee-756793218/)
 
 
-### 📌 Git Statㄴ
+### 📌 Git Stats
 <div align=center>
 <a href="https://github.com/YHLEE9753">
   <img src="https://github-readme-stats.vercel.app/api?username=YHLEE9753" width="60%" />
